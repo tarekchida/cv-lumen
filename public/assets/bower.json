@@ -1,0 +1,26 @@
+{
+  "name": "cv-rest-assets",
+  "authors": [
+    "t-chida <tarek.chida@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "4.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "jquery-ui": "^1.12.1",
+    "jquery-validation": "^1.17.0"
+  }
+}

@@ -1,2 +1,0 @@
-# cv-rest
-cv rest 
