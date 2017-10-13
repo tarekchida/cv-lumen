@@ -20,6 +20,32 @@
                 </p>
             </div>
         </div>  
+        <div class="col-sm-6 col-md-4 subpage-block">
+            <div class="general-info">
+                <div id="worksSlides" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner" role="listbox">
+                        <div class="carousel-item active">
+                            <img src="/assets/images/portfolio/guartracker.jpg" alt="Guar Tracker" style="width:100%">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/assets/images/portfolio/ephemeride.png" alt="Ephemeride App" style="width:100%">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/assets/images/portfolio/qepro.jpg" alt="Qe Pro" style="width:100%">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/assets/images/portfolio/qepro.jpg" alt="Qe Pro" style="width:100%">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/assets/images/portfolio/lpr.jpg" alt="Lagardere Paris Racing" style="width:100%">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="/assets/images/portfolio/atlv.jpg" alt="Atelier Du Voyage" style="width:100%">
+                        </div>
+                    </div>
+                </div> 
+            </div>
+        </div> 
     </div>
 
     <!-- Services block -->
@@ -53,22 +79,12 @@
         <div class="col-sm-6 col-md-4 subpage-block">
             <div class="service-block"> 
                 <div class="service-info">
-                    <img src="images/service/ecommerce.png" alt="E-Commerce">
-                    <h4>E-Commerce</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                    <img src="/assets/images/skills/management.png" alt="E-Commerce">
+                    <h4> Project Managment</h4>
+                    <p> Méthodologies (Scrum, Agil...)</p>
                 </div>
             </div>
-        </div>
-
-        <div class="col-sm-6 col-md-4 subpage-block">
-            <div class="service-block"> 
-                <div class="service-info">
-                    <img src="images/service/management.png" alt="Management">
-                    <h4>Management</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                </div>
-            </div>
-        </div>
+        </div> 
     </div>
     <!-- End of Services block -->
 

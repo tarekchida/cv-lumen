@@ -23,7 +23,7 @@
             <!-- Header -->
             <header id="site_header" class="header">
                 <div class="my-photo">
-                    <img src="/aassets/images/--mypic.jpg" alt="image">
+                    <img src="/assets/images/--mypic.jpg" alt="image">
                     <div class="mask"></div>
                 </div>
 
@@ -52,7 +52,7 @@
                             </li>
                             <!-- /About Me Subpage link -->
                             <li>
-                                <a class="pt-trigger" href="#resume"   data-goto="2">Resume</a>
+                                <a class="pt-trigger" href="#resume"   data-goto="2">CV</a>
                             </li>
                             <li>
                                 <a class="pt-trigger" href="#portfolio"  data-goto="3">Portfolio</a>
