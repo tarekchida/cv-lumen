@@ -1,7 +1,7 @@
 <section class="pt-page pt-page-3" data-id="portfolio" style="display: none">
     <div class="section-title-block">
         <h2 class="section-title">Portfolio</h2>
-        <h5 class="section-description">My Best Works</h5>
+        <h5 class="section-description">Quelque projets</h5>
     </div>
 
     <!-- Portfolio Content -->
@@ -9,16 +9,21 @@
         <div class="container portfolio-grid"> 
             <div class="row">
                 <figure  class="col-md-3">
-                    <div class="d-md-none"> <h5 class="name">Guar Tracker</h5></div>
+                    <div class="d-md-none">                             
+                        <h5 class="name">Guar Tracker</h5> 
+                    </div>
                     <div class="thumbnail">
                         <a href="https:www.beko.fr" target="_blank">
                             <img src="/assets/images/portfolio/guartracker.jpg" alt="Guar Tracker" style="width:100%">
                             <div class="overlay">
                                 <div class="text">
                                     <h5 class="name">Guar Tracker</h5>
-
-                                    <p>Lumen Framework, Jquery, Blockchain, REST API </p> 
-
+                                    <ul>
+                                        <li>Lumen Framework </li>
+                                        <li>PHP 7 </li>
+                                        <li>JQuery </li>
+                                        <li>Blockchain, REST API</li>
+                                    </ul> 
                                 </div>
                             </div>
                         </a>
@@ -32,6 +37,10 @@
                             <div class="overlay">
                                 <div class="text">
                                     <h5 class="name">Ephemeride App</h5>
+                                    <ul>
+                                        <li>Node Webkit (NW.js)</li>
+                                        <li>HTML5 </li> 
+                                    </ul> 
                                 </div>
                             </div>
                         </a>
@@ -45,7 +54,13 @@
                             <div class="overlay">
                                 <div class="text">
                                     <h5 class="name">Qe Pro</h5>
-                                </div>
+                                    <ul>
+                                        <li>Drupal 7 </li>
+                                        <li>PHP 5 </li>
+                                        <li>JQuery </li> 
+                                        <li>REST API</li>
+                                    </ul> 
+                                </div> 
                             </div>
                         </a>
                     </div>
@@ -58,6 +73,11 @@
                             <div class="overlay">
                                 <div class="text">
                                     <h5 class="name">Beko</h5>
+                                    <ul>
+                                        <li>Drupal 7 </li>
+                                        <li>PHP 5 </li>
+                                        <li>JQuery </li>                                 
+                                    </ul> 
                                 </div>
                             </div>
                         </a>
@@ -71,6 +91,11 @@
                             <div class="overlay">
                                 <div class="text">
                                     <h5 class="name">Lagardere Paris Racing</h5>
+                                    <ul>
+                                        <li>Drupal 7 </li>
+                                        <li>PHP 5 </li>
+                                        <li>JQuery </li>                                 
+                                    </ul>  
                                 </div>
                             </div>
                         </a>
@@ -84,6 +109,11 @@
                             <div class="overlay">
                                 <div class="text">
                                     <h5 class="name">Atelier Du Voyage</h5>
+                                    <ul>
+                                        <li>Symfony Framework</li> 
+                                        <li>PHP 5 </li>
+                                        <li>JQuery </li>                                 
+                                    </ul> 
                                 </div>
                             </div>
                         </a>
@@ -97,6 +127,11 @@
                             <div class="overlay">
                                 <div class="text">
                                     <h5 class="name">Accor Easypitch</h5>
+                                    <ul>
+                                        <li>Zend Framework </li> 
+                                        <li>PHP 5 </li>
+                                        <li>JQuery </li>                                 
+                                    </ul> 
                                 </div>
                             </div>
                         </a>
@@ -110,6 +145,11 @@
                             <div class="overlay">
                                 <div class="text">
                                     <h5 class="name">Equidia Club</h5>
+                                    <ul>
+                                        <li>Zend Framework </li> 
+                                        <li>PHP 5 </li>
+                                        <li>JQuery </li>                                 
+                                    </ul> 
                                 </div>
                             </div>
                         </a>

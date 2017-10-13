@@ -72,54 +72,48 @@
                 <h3>Coding Skills</h3>
             </div>
             <div class="skills-info">
-                <h4>HML5</h4>                               
+                <h4>PHP</h4>                               
+                <div class="skill-container">
+                    <div class="skill-percentage skill-4"></div>
+                </div>
+                <h4>Wordpress</h4>
                 <div class="skill-container">
                     <div class="skill-percentage skill-4"></div>
                 </div>
 
-                <h4>CSS3</h4>
+                <h4>Drupal 7/8</h4>
                 <div class="skill-container">
                     <div class="skill-percentage skill-5"></div>
                 </div>
-
-                <h4>jQuery</h4>
-                <div class="skill-container">
-                    <div class="skill-percentage skill-6"></div>
-                </div>
-
-                <h4>Wordpress</h4>
-                <div class="skill-container">
-                    <div class="skill-percentage skill-7"></div>
-                </div>
-
-                <h4>PHP</h4>
+                <h4>Magento</h4>
                 <div class="skill-container">
                     <div class="skill-percentage skill-8"></div>
                 </div>
-                <h4>HML5</h4>                               
+                <h4>Zend Framwork</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-5"></div>
+                </div>
+                <h4>Symfony</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-6"></div>
+                </div>
+                <h4>Lumen</h4>                               
+                <div class="skill-container">
+                    <div class="skill-percentage skill-5"></div>
+                </div>
+                <h4>MySQL</h4>                               
                 <div class="skill-container">
                     <div class="skill-percentage skill-4"></div>
                 </div>
-
-                <h4>CSS3</h4>
+                <h4>jQuery</h4>
                 <div class="skill-container">
                     <div class="skill-percentage skill-5"></div>
                 </div>
-
-                <h4>jQuery</h4>
-                <div class="skill-container">
-                    <div class="skill-percentage skill-6"></div>
-                </div>
-
-                <h4>Wordpress</h4>
+                <h4>CSS3</h4>
                 <div class="skill-container">
                     <div class="skill-percentage skill-7"></div>
                 </div>
 
-                <h4>PHP</h4>
-                <div class="skill-container">
-                    <div class="skill-percentage skill-8"></div>
-                </div>                                        
             </div>
         </div>
     </div>

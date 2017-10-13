@@ -23,7 +23,7 @@
             <!-- Header -->
             <header id="site_header" class="header">
                 <div class="my-photo">
-                    <img src="/assets/images/mypic.jpg" alt="image">
+                    <img src="/aassets/images/--mypic.jpg" alt="image">
                     <div class="mask"></div>
                 </div>
 
@@ -68,10 +68,10 @@
 
                         <!-- Social buttons -->
                         <ul class="social-links">
-                            <li><a class="tip social-button" href="#" title="LinkedIn"><i class="fa fa-linkedin"></i></a></li> <!-- Full list of social icons: http://fontawesome.io/icons/#brand -->
-                            <li><a class="tip social-button" href="#" title="Stack-overflow"><i class="fa fa-stack-overflow"></i></a></li>
-                            <li><a class="tip social-button" href="#" title="Github"><i class="fa fa-github"></i></a></li>
-                            <li><a class="tip social-button" href="#" title="Wordpress"><i class="fa fa-wordpress"></i></a></li> 
+                            <li><a class="tip social-button" target="_blank" href="https://tn.linkedin.com/pub/tarek-chida/43/39/121/" title="LinkedIn"><i class="fa fa-linkedin"></i></a></li> <!-- Full list of social icons: http://fontawesome.io/icons/#brand -->
+                            <li><a class="tip social-button" target="_blank" href="http://stackoverflow.com/users/1356026/t-c?tab=profile" title="Stack-overflow"><i class="fa fa-stack-overflow"></i></a></li>
+                            <li><a class="tip social-button" target="_blank" href="https://github.com/tarekchida" title="Github"><i class="fa fa-github"></i></a></li>
+                            <li><a class="tip social-button" target="_blank" href="https://profiles.wordpress.org/tarekchida/" title="Wordpress"><i class="fa fa-wordpress"></i></a></li> 
                         </ul>
                         <!-- /Social buttons -->
                     </div>

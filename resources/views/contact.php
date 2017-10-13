@@ -1,54 +1,19 @@
 <section class="pt-page pt-page-5" data-id="contact" style="display: none">
     <div class="section-title-block">
         <h2 class="section-title">Contact</h2>
-        <h5 class="section-description">Get in Touch</h5>
+        <h5 class="section-description">Keep in Touch</h5>
     </div>
 
     <div class="row">
         <div class="col-sm-6 col-md-6 subpage-block">
-            <div class="block-title">
-                <h3>Get in Touch</h3>
-            </div>
-            <p>Sed eleifend sed nibh nec fringilla. Donec eu cursus sem, vitae tristique ante. Cras pretium rutrum egestas. Integer ultrices libero sed justo vehicula, eget tincidunt tortor tempus.</p>
-            <div class="contact-info-block">
-                <div class="ci-icon">
-                    <i class="pe-7s-icon pe-7s-map-marker"></i>
-                </div>
-                <div class="ci-text">
-                    <h5>Los Angeles, USA</h5>
-                </div>
-            </div>
-            <div class="contact-info-block">
-                <div class="ci-icon">
-                    <i class="pe-7s-icon pe-7s-mail"></i>
-                </div>
-                <div class="ci-text">
-                    <h5>alexsmith@example.com</h5>
-                </div>
-            </div>
-            <div class="contact-info-block">
-                <div class="ci-icon">
-                    <i class="pe-7s-icon pe-7s-call"></i>
-                </div>
-                <div class="ci-text">
-                    <h5>+123 654 78900</h5>
-                </div>
-            </div>
-            <div class="contact-info-block">
-                <div class="ci-icon">
-                    <i class="pe-7s-icon pe-7s-check"></i>
-                </div>
-                <div class="ci-text">
-                    <h5>Freelance Available</h5>
-                </div>
-            </div>
+    
         </div>
 
         <div class="col-sm-6 col-md-6 subpage-block">
             <div class="block-title">
-                <h3>Contact Form</h3>
+                <h3>Formulaire de contact</h3>
             </div>
-            <form id="contact-form" method="post" action="contact_form/contact_form.php">
+            <form id="contact-form">
 
                 <div class="messages"></div>
 
@@ -72,9 +37,7 @@
                         <div class="form-control-border"></div>
                         <i class="form-control-icon fa fa-comment"></i>
                         <div class="help-block with-errors"></div>
-                    </div>
-
-                    <div class="g-recaptcha" data-sitekey="6LdqmCAUAAAAAMMNEZvn6g4W5e0or2sZmAVpxVqI" data-callback="correctCaptcha"></div>
+                    </div> 
 
                     <input type="submit" class="button btn-send" value="Send message">
                 </div>
