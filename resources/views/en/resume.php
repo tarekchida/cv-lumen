@@ -1,0 +1,127 @@
+<section class="pt-page pt-page-2" data-id="resume" style="display: none">
+    <div class="section-title-block">
+        <h2 class="section-title">Resume</h2>
+        <h5 class="section-description">6 Years of Experience</h5>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6 col-md-3 subpage-block">
+            <div class="block-title">
+                <h3>Education</h3>
+            </div>
+            <div class="timeline">
+                <!-- Single event -->
+                <div class="timeline-event te-primary">
+                    <h5 class="event-date">2009 - 2011</h5>
+                    <h4 class="event-name">Institut Supèrieur de l'Informatique ISI</h4>
+                    <span class="event-description">Tunis - TUNISIA</span>
+                    <p>Master degree in Computer Systems and Network Security</p>
+                </div>
+                <!-- Single event -->
+                <div class="timeline-event te-primary">
+                    <h5 class="event-date">2007 - 2009</h5>
+                    <h4 class="event-name">Ecole Supèrieure de Technologie et d'Informatique ESTI</h4>
+                    <span class="event-description">Tunis - TUNISIA</span>
+                    <p>Master degree in Applied Computer Science</p>
+                </div>
+                <!-- Single event -->
+                <div class="timeline-event te-primary">
+                    <h5 class="event-date">2003 - 2006</h5>
+                    <h4 class="event-name">Institut National des Sciences Appliquées et de Technologies INSAT</h4>
+                    <span class="event-description">Tunis - TUNISIA</span>
+                    <p>University degree in computer networks and telecommunications</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 subpage-block">
+            <div class="block-title">
+                <h3>Experience</h3>
+            </div>
+            <div class="timeline">
+                <!-- Single event -->
+                <div class="timeline-event te-primary">
+                    <h5 class="event-date">2013 - Now</h5>
+                    <h4 class="event-name">Full Stack Developer</h4>
+                    <span class="event-description">Keyrus</span>
+                    <p>Design and development of websites and web apps. <br/>
+                         Design and implementation of new functionalities on existing sites.</p>
+                </div>
+                <!-- Single event -->
+                <div class="timeline-event te-primary">
+                    <h5 class="event-date">2012 - 2013</h5>
+                    <h4 class="event-name">Magento Developer</h4>
+                    <span class="event-description">Kiwi Web - Bluevision</span>
+                    <p>Magento development, module design. <br/> 
+                        Implementation of new functionalities on existing Magento e-commerce sites. <br/>
+                        Ensure the maintenance and evolution of ecommerce sites.</p>
+                </div>
+                <!-- Single event -->
+                <div class="timeline-event te-primary">
+                    <h5 class="event-date">2009 - 2011</h5>
+                    <h4 class="event-name">Hawk Informatique</h4>
+                    <span class="event-description">Technical Manager, Web Developer</span>
+                    <p>Project management, application and website development, network administration and security audit.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 subpage-block">
+
+            <div class="block-title">
+                <h3>Coding Skills</h3>
+            </div>
+            <div class="skills-info">
+                <h4>PHP</h4>                               
+                <div class="skill-container">
+                    <div class="skill-percentage skill-4"></div>
+                </div>
+                <h4>Wordpress</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-4"></div>
+                </div>
+
+                <h4>Drupal 7/8</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-5"></div>
+                </div>
+                <h4>Magento</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-8"></div>
+                </div>
+                <h4>Zend Framwork</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-5"></div>
+                </div>
+                <h4>Symfony</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-6"></div>
+                </div>
+                <h4>Lumen</h4>                               
+                <div class="skill-container">
+                    <div class="skill-percentage skill-5"></div>
+                </div>
+                <h4>MySQL</h4>                               
+                <div class="skill-container">
+                    <div class="skill-percentage skill-4"></div>
+                </div>
+                <h4>jQuery</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-5"></div>
+                </div>
+                <h4>CSS3</h4>
+                <div class="skill-container">
+                    <div class="skill-percentage skill-7"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12 col-md-12">
+            <div class="download-cv-block">
+                <a class="button" target="_blank" href="#">Download CV</a>
+            </div>
+        </div>
+    </div>
+</section>

@@ -11,4 +11,5 @@
   |
  */
 
-$router->get('/', 'HomeController@home');
+$router->get('/', 'HomeController@fr');
+$router->get('/en', 'HomeController@en');

@@ -19,8 +19,12 @@ class HomeController extends Controller {
         //
     }
 
-    public function home() {
-        return view('home');
+    public function fr() {
+        return view('fr/home');
+    }
+
+    public function en() {
+        return view('en/home');
     }
 
 }
