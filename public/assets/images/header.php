@@ -6,24 +6,15 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
         <title>Tarek Chdia - Curriculum Vitae</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-        <meta name="description" content="I’m a full stack developer living in Paris, France. I spend my days on many different areas of web development from back end (PHP) to front end programming (HTML, CSS, and jQuery/Javascript).">
-        <meta name="author" content="Tarek Chida">
-        <meta name="keywords" content="CV, php, Web, developpeur, html, zend, magento, jquery, drupal, wordpress ">
+        <meta name="description" content="Sunshine - Responsive vCard Template" />
+        <meta name="keywords" content="vcard, resposnive, retina, resume, jquery, css3, bootstrap, Sunshine, portfolio" />
+        <meta name="author" content="lmtheme" />
         <link rel="shortcut icon" href="favicon.ico">
         <link rel="stylesheet" href="/assets/bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css">
         <link rel="stylesheet" href="/assets/normalize.css" type="text/css">  
         <link rel="stylesheet" href="/assets/main.css" type="text/css"> 
         <script src="/assets/bower_components/jquery/dist/jquery.min.js"></script>  
-        <script src='https://www.google.com/recaptcha/api.js'></script>
-        <!-- Global Site Tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-52363976-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments)};
-          gtag('js', new Date());
 
-          gtag('config', 'UA-52363976-1');
-        </script>
     </head>
 
     <body> 
@@ -39,7 +30,6 @@
                 <div class="site-title-block">
                     <h1 class="site-title">Tarek Chida</h1>
                     <p class="site-description">Full Stack Developer</p>
-
                 </div>
 
                 <a class="menu-toggle mobile-visible">
@@ -58,7 +48,7 @@
                         <ul id="nav" class="site-main-menu">
                             <!-- About Me Subpage link -->
                             <li>
-                                <a class="pt-trigger" href="#about_me" data-goto="1">About me</a><!-- href value = data-id without # of .pt-page -->
+                                <a class="pt-trigger" href="#about_me" data-goto="1">A propos</a><!-- href value = data-id without # of .pt-page -->
                             </li>
                             <!-- /About Me Subpage link -->
                             <li>
@@ -66,11 +56,13 @@
                             </li>
                             <li>
                                 <a class="pt-trigger" href="#portfolio"  data-goto="3">Portfolio</a>
-                            </li> 
+                            </li>
+                            <li>
+                                <a class="pt-trigger" href="#blog"   data-goto="4">Blog</a>
+                            </li>
                             <li>
                                 <a class="pt-trigger" href="#contact"  data-goto="5">Contact</a>
                             </li>
-
                         </ul>
                         <!-- /Main menu -->
 
@@ -80,8 +72,6 @@
                             <li><a class="tip social-button" target="_blank" href="http://stackoverflow.com/users/1356026/t-c?tab=profile" title="Stack-overflow"><i class="fa fa-stack-overflow"></i></a></li>
                             <li><a class="tip social-button" target="_blank" href="https://github.com/tarekchida" title="Github"><i class="fa fa-github"></i></a></li>
                             <li><a class="tip social-button" target="_blank" href="https://profiles.wordpress.org/tarekchida/" title="Wordpress"><i class="fa fa-wordpress"></i></a></li> 
-                            <li><a href="http://cv.tchida.net/"><img src="assets/images/fr.png" alt="Fr"></a></li>
-
                         </ul>
                         <!-- /Social buttons -->
                     </div>

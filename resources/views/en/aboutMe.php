@@ -12,7 +12,7 @@
         </div>
         <div class="col-sm-6 col-md-6 subpage-block">
             <div class="general-info">
-                <h3>Je suis développeur full stack @ Keyrus</h3>
+                <h3>I’m a full stack developer @ Keyrus</h3>
                 <p>  I’m a full stack developer living in Paris, France. I spend my days on many different areas of web development from back end (PHP) to front end programming (HTML, CSS, and jQuery/Javascript).</p>
 
                 <p> I’m extremely passionate about web development in all its forms. Aside from web development, I enjoy spending my time with my little family, playing music, <a href="https://flic.kr/s/aHskzEyf6h" target="_blank">taking photos</a> and traveling. </p>

@@ -2064,3 +2064,15 @@ div.blog-article{
     height: 200px;
     margin-bottom: 50px;
 }
+.pt-page-5 .success{
+    margin: 20px 20px;
+    background-color: rgba(157, 255, 163, 0.58);
+    padding: 9px;
+    width: 400px;
+}
+.pt-page-5 .errors{
+    margin: 20px 20px;
+    background-color: rgba(255, 147, 147, 0.58);
+    padding: 9px;
+    width: 400px;
+}
