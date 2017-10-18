@@ -38,7 +38,7 @@
                         <i class="form-control-icon fa fa-comment"></i>
                         <div class="help-block with-errors"></div>
                     </div> 
-                    <div class="g-recaptcha" data-sitekey="6LfB4zQUAAAAABLHEqkt5Zy8RzuRk1dxFXQRVy1g"></div>
+                    <div class="g-recaptcha" data-sitekey="6LfS4zQUAAAAAIXCqPRZwaUfar0uRhUFoML9YFDS"></div>
 
                     <input type="submit" class="button btn-send" value="Envoyer">
                 </div>

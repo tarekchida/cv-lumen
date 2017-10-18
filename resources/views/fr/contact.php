@@ -13,8 +13,7 @@
             <div class="block-title">
                 <h3>Formulaire de contact</h3>
             </div>
-            <form id="contact-form">
-
+            <form id="contact-form"> 
                 <div class="success" style="display: none">Merci pour votre message :) </div>
                 <div class="errors" style="display: none">Oops ! Une erreur est survenue à l'envoi du message :( </div>
                 <div class="controls">
@@ -38,7 +37,7 @@
                         <i class="form-control-icon fa fa-comment"></i>
                         <div class="help-block with-errors"></div>
                     </div> 
-                    <div class="g-recaptcha" data-sitekey="6LfB4zQUAAAAABLHEqkt5Zy8RzuRk1dxFXQRVy1g"></div>
+                    <div class="g-recaptcha" data-sitekey="6LfS4zQUAAAAAIXCqPRZwaUfar0uRhUFoML9YFDS"></div>
 
                     <input type="submit" class="button btn-send" value="Envoyer">
                 </div>

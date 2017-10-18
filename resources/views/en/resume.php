@@ -45,7 +45,7 @@
                     <h4 class="event-name">Full Stack Developer</h4>
                     <span class="event-description">Keyrus</span>
                     <p>Design and development of websites and web apps. <br/>
-                         Design and implementation of new functionalities on existing sites.</p>
+                        Design and implementation of new functionalities on existing sites.</p>
                 </div>
                 <!-- Single event -->
                 <div class="timeline-event te-primary">
@@ -120,7 +120,7 @@
     <div class="row">
         <div class="col-sm-12 col-md-12">
             <div class="download-cv-block">
-                <a class="button" target="_blank" href="#">Download CV</a>
+                <!--  <a class="button" target="_blank" href="#">Download CV</a>-->
             </div>
         </div>
     </div>

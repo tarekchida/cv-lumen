@@ -14,3 +14,4 @@
 $router->get('/', 'HomeController@fr');
 $router->get('/en', 'HomeController@en');
 $router->post('/contact', 'HomeController@contact');
+$router->post('/recapthca', 'HomeController@reCaptcha');

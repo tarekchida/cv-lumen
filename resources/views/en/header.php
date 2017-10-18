@@ -16,7 +16,7 @@
         <script src="/assets/bower_components/jquery/dist/jquery.min.js"></script>  
         <script src='https://www.google.com/recaptcha/api.js'></script>
         <!-- Global Site Tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-52363976-1"></script>
+        <script async src="http://www.googletagmanager.com/gtag/js?id=UA-52363976-1"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments)};

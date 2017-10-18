@@ -1,13 +1,13 @@
 <section class="pt-page pt-page-2" data-id="resume" style="display: none">
     <div class="section-title-block">
-        <h2 class="section-title">Resume</h2>
-        <h5 class="section-description">6 Years of Experience</h5>
+        <h2 class="section-title">CV</h2>
+        <h5 class="section-description">6 ans d'experiences</h5>
     </div>
 
     <div class="row">
         <div class="col-sm-6 col-md-3 subpage-block">
             <div class="block-title">
-                <h3>Education</h3>
+                <h3>Formations</h3>
             </div>
             <div class="timeline">
                 <!-- Single event -->
@@ -36,7 +36,7 @@
 
         <div class="col-sm-6 col-md-3 subpage-block">
             <div class="block-title">
-                <h3>Experience</h3>
+                <h3>Experiences</h3>
             </div>
             <div class="timeline">
                 <!-- Single event -->
@@ -69,7 +69,7 @@
         <div class="col-sm-6 col-md-3 subpage-block">
 
             <div class="block-title">
-                <h3>Coding Skills</h3>
+                <h3>Compétences</h3>
             </div>
             <div class="skills-info">
                 <h4>PHP</h4>                               
@@ -120,7 +120,7 @@
     <div class="row">
         <div class="col-sm-12 col-md-12">
             <div class="download-cv-block">
-                <a class="button" target="_blank" href="#">Download CV</a>
+              <!--  <a class="button" target="_blank" href="#">Download CV</a>-->
             </div>
         </div>
     </div>
